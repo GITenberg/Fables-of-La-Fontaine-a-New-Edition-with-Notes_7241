@@ -1,0 +1,38 @@
+_repo: Fables-of-La-Fontaine-a-New-Edition-with-Notes_7241
+contributor:
+  annotator:
+    agent_name: Gibbs, J. W. M.
+    gutenberg_agent_id: '2392'
+    url: http://www.gutenberg.org/2009/agents/2392
+  translator:
+    agent_name: Wright, Elizur
+    birthdate: 1804
+    deathdate: 1885
+    gutenberg_agent_id: '2391'
+    url: http://www.gutenberg.org/2009/agents/2391
+    wikipedia: http://en.wikipedia.org/wiki/Elizur_Wright
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - Fontaine, Jean de La
+    - De La Fontaine, Jean
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, French -- Translations into English'
+- !lcc 'PQ'
+title: Fables of La Fontaine — a New Edition, with Notes
+url: http://www.gutenberg.org/ebooks/7241
